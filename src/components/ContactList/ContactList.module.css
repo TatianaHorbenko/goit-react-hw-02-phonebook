@@ -23,23 +23,19 @@
 
 .listText {
   margin: 0;
-  /* border-radius: 10px; */
-
-  transition: all 250ms linear;
+   transition: all 250ms linear;
 }
 
 .button {
   background-color: #eca1ab;
-  /* border-radius: 10px; */
-
   cursor: pointer;
 }
 
 .button:before {
-  content: '✘';
+  content: 'Delete';
   background-color: inherit;
   cursor: pointer;
-  font-weight: 800;
+  font-weight: 600;
 
   transition: all 250ms linear;
 }
@@ -51,8 +47,6 @@
 .listItem:hover .listText {
   color: #ffffff;
   background-color: #eca1ab;
-  /* border-radius: 10px; */
-
   padding: 0 10px;
   margin-left: 10px;
 }
