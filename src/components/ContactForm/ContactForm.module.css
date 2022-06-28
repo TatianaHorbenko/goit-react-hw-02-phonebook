@@ -5,7 +5,7 @@
 
   margin-top: 40px;
   width: 400px;
-  padding: 30px;
+  padding: 20px;
 
   background-color: #ffffff;
   text-align: left;
@@ -31,15 +31,13 @@
 
 .button {
   width: 100%;
-  padding: 15px 0;
-  margin-top: 15px;
+  padding: 10px 0;
+  margin-top: 20px;
 
   color: #ffffff;
   background-color: #e980ba;
   font-weight: 700;
   text-transform: uppercase;
-
-  /* border-radius: 20px; */
   border: none;
 
   cursor: pointer;

@@ -19,17 +19,17 @@ code {
 h1,
 h2 {
   font-weight: 700;
-  font-size: 3rem;
   color: #fff;
   margin: 0;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
+  margin-bottom: 10px;
 }
 
 h2 {
-  font-size: 2rem;
-  margin-top: 25px;
+  font-size: 1.5rem;
+  margin-top: 10px;
 }
 
